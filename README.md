@@ -31,13 +31,16 @@ AnalyticQ is a comprehensive data analysis platform that combines powerful analy
    ```
    pip install -r requirements.txt
    ```
-
-3. Run the Streamlit app:
+3. Create a .env file to store the api key as below
+   ```
+   OPENAI_API_KEY= your_OPEN_AI_key
+   ```
+4. Run the Streamlit app:
    ```
    streamlit run app.py
    ```
 
-4. Open your browser and go to `http://localhost:8501`
+5. Open your browser and go to `http://localhost:8501`
 
 ## Usage
 
