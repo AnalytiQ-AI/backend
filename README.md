@@ -23,7 +23,7 @@ AnalyticQ is a comprehensive data analysis platform that combines powerful analy
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/analyticq.git
+   git clone https://github.com/AnalytiQ-AI/backend.git
    cd analyticq
    ```
 
